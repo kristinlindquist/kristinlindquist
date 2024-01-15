@@ -36,6 +36,7 @@ Database
 <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/prisma-2D3748?logo=prisma&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/redis-DC382D?logo=redis&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/bigquery-669DF6?logo=googlebigtable&logoColor=white&style=flat" />
 </p>
 
 Infrastructure & CI/CD
