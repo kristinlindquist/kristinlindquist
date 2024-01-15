@@ -1,3 +1,37 @@
 ### Hi there 👋
 
-[![Preferred Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Preferred+Tech+Stack&lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=python%2Cpython%2C4b86e5%3Bpytorch%2Cpytorch%2C2fdea6%3Bpolars%2Cpolars%2Cb02cde%3Bspacy%2Cspacy%2Cf08d28%3Bspacy%2Cscispacy%2Cff239a%3Bkeras%2Ckeras%2C5effbd%3Breact%2Creact%2C7c5dc5%3Bvega%2Cvega%2C9ade0c%3Btypescript%2Ctypescript%2C50cb37%3Bjavascript%2Cnodejs%2Cd05352%3Bserverless%2Cserverless%2Ce7e31d%3Bprisma%2Cprisma%2C5bb078%3Bpostgresql%2Cpostgresql%2Cee5114%3Blinux%2Clinux%2C6c88dc%3B)
+## Preferred Tech Stack
+Data Science
+<p>
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/spacy-09A3D5?logo=spacy&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/polars-CD792C?logo=polars&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/networkx-143055?logo=onnx&logoColor=white&style=flat" />
+</p>
+
+UI
+<p>
+<img src="https://img.shields.io/badge/react-0088CC?logo=react&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/vega-2450B2?logo=vega&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/next.js-000000?logo=next.js&logoColor=white&style=flat" />
+</p>
+
+API
+<p>
+<img src="https://img.shields.io/badge/serverless-FD5750?logo=serverless&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/trpc-2596BE?logo=trpc&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/vercel-000000?logo=vercel&logoColor=white&style=flat" />
+</p>
+
+Database
+<p>
+<img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/prisma-2D3748?logo=prisma&logoColor=white&style=flat" />
+</p>
+
+Misc
+<p>
+<img src="https://img.shields.io/badge/redis-DC382D?logo=redis&logoColor=white&style=flat" />
+</p>
