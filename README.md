@@ -1,9 +1,8 @@
-### Hi there 👋
-
-## Preferred Tech Stack
+## Tech Stack
 Data Science
 <p>
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/huggingface-14854F?logo=python&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/spacy-09A3D5?logo=spacy&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/networkx-143055?logo=onnx&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/scikit-F7931E?logo=scikitlearn&logoColor=white&style=flat" />
