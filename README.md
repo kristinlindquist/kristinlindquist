@@ -53,3 +53,8 @@ Design
 <img src="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/figjam-009688?logo=figma&logoColor=white&style=flat" />
 </p>
+
+## Other
+Me talking about RAG, irritated at confabulation:
+![present-at-ai-meetup](https://github.com/kristinlindquist/kristinlindquist/assets/9382486/12a8e55c-e70f-4795-aaeb-90d1168e3d68)
+
