@@ -1,3 +1,6 @@
+## Portfolio
+https://lindquistkristin.myportfolio.com/
+
 ## Tech Stack
 Data Science
 <p>
