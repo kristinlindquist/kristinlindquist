@@ -13,12 +13,6 @@ Data Science
 <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=flat" />
 </p>
 
-Visualization
-<p>
-<img src="https://img.shields.io/badge/vega-2450B2?logo=vega&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/cytoscape-143055?logo=cytoscapedotjs&logoColor=white&style=flat" />
-</p>
-
 UI
 <p>
 <img src="https://img.shields.io/badge/react-0088CC?logo=react&logoColor=white&style=flat" />
@@ -28,34 +22,36 @@ UI
 <img src="https://img.shields.io/badge/vercel-000000?logo=vercel&logoColor=white&style=flat" />
 </p>
 
-API
+Backend
 <p>
 <img src="https://img.shields.io/badge/trpc-2596BE?logo=trpc&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/lambda-FF9900?logo=awslambda&logoColor=white&style=flat" />
-</p>
-
-Database
-<p>
 <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/prisma-2D3748?logo=prisma&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/redis-DC382D?logo=redis&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/bigquery-669DF6?logo=googlebigtable&logoColor=white&style=flat" />
 </p>
 
-Infrastructure & CI/CD
+Infrastructure
 <p>
 <img src="https://img.shields.io/badge/serverless-FD5750?logo=serverless&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/terraform-844FBA?logo=terraform&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/storybook-FF4785?logo=storybook&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/linux-DA3B8A?logo=linux&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/rds-527FFF?logo=amazonrds&logoColor=white&style=flat" />
 </p>
 
-Design
+Visualization & Design
 <p>
+<img src="https://img.shields.io/badge/vega-2450B2?logo=vega&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/cytoscape-143055?logo=cytoscapedotjs&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/figjam-009688?logo=figma&logoColor=white&style=flat" />
 </p>
+
+## Currently Learning
+<p>
+<img src="https://img.shields.io/badge/haskell-5D4F85?logo=haskell&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/jax-aaa?logo=python&logoColor=white&style=flat" />
+</p>
+
 
 ## Other
 Me talking about RAG, irritated at confabulation:
